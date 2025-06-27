@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://liquidation-watch.app/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Block access to admin areas (if any)
+Disallow: /admin/
+Disallow: /api/internal/
+
+# Allow all other content
+Allow: /api/liquidations
+Allow: /api/funding-rates
+Allow: /api/market-info
