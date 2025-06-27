@@ -50,7 +50,7 @@ graph TD
     D --> G[Historical Data]
 ```
 
-Liquidation Watch is a comprehensive cryptocurrency liquidation tracking platform that provides real-time monitoring of liquidation events across major exchanges. Built with Next.js 14 and TypeScript, it offers traders and analysts powerful tools to understand market sentiment, track whale movements, and backtest liquidation-based trading strategies.
+Liquidation Watch is a simple cryptocurrency liquidation tracking platform that provides real-time monitoring of liquidation events across major exchanges. Built with Next.js 14 and TypeScript, it offers traders and analysts powerful tools to understand market sentiment, track whale movements, and backtest liquidation-based trading strategies.
 
 ### Key Highlights
 
