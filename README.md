@@ -604,23 +604,6 @@ SOFTWARE.
 
 ---
 
-## 🙏 Acknowledgments
-
-- **[Next.js Team](https://nextjs.org/)** for the amazing React framework
-- **[shadcn](https://ui.shadcn.com/)** for the beautiful component library
-- **[Tailwind CSS](https://tailwindcss.com/)** for the utility-first CSS framework
-- **[Vercel](https://vercel.com/)** for hosting and deployment platform
-- **Cryptocurrency Community** for inspiration and feedback
-
-## 📞 Support
-
-- **Documentation**: [GitHub Wiki](https://github.com/liquidationwatch/liquidation-watch/wiki)
-- **Issues**: [GitHub Issues](https://github.com/liquidationwatch/liquidation-watch/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/liquidationwatch/liquidation-watch/discussions)
-- **Email**: support@liquidationwatch.com
-
----
-
 <div align="center">
   <p>Built with ❤️ by the Liquidation Watch Team</p>
   <p>
