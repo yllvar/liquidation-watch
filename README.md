@@ -1,8 +1,13 @@
 # 🚀 Liquidation Watch
 
 <div align="center">
-  <img src="public/favicon-32x32.png" alt="Liquidation Watch Logo" width="64" height="64">
+  <img width="782" alt="Screenshot 2025-06-28 at 02 59 27" src="https://github.com/user-attachments/assets/392d60c3-1e28-48de-ae60-5782740ee30b" />
+
   
+---
+
+
+
   **Real-Time Cryptocurrency Liquidation Tracker & Analytics Platform**
   
   [![Next.js](https://img.shields.io/badge/Next.js-14.0.4-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -10,7 +15,7 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
   
-  [Live Demo](https://liquidationwatch.com) • [Documentation](#documentation) • [Contributing](#contributing)
+  [Live Demo](https://liquidation-watch.vercel.app/) • [Documentation](#documentation) • [Contributing](#contributing)
 </div>
 
 ## 📋 Table of Contents
@@ -327,7 +332,7 @@ liquidation-watch/
 ├── tailwind.config.js            # Tailwind CSS configuration
 ├── tsconfig.json                 # TypeScript configuration
 └── package.json                  # Dependencies and scripts
-\`\`\`
+```
 
 ## 🔌 API Documentation
 
@@ -406,7 +411,7 @@ NEXT_PUBLIC_API_BASE_URL=https://your-api-url
 # Analytics (Optional)
 NEXT_PUBLIC_GA_ID=your-google-analytics-id
 VERCEL_ANALYTICS_ID=your-vercel-analytics-id
-\`\`\`
+```
 
 ### Customization Options
 
